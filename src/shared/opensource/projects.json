@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "id": "SaharaDesk website",
+      "name": "SaharaDesk website",
+      "createdAt": "",
+      "url": "https://saharadeskdev.azurewebsites.net/",
+      "description": "Asset management system for tracking and managing assets in an organization.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "ReactJs",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "React Redux",
+          "iconifyClass": "logos-redux"
+        },
+        {
+          "name": ".Net Core",
+          "iconifyClass": "logos-dotnet"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "logos-azure"
+        }
+      ]
+    },
+    {
+      "id": "SaharaDesk Mobile App",
+      "name": "SaharaDesk Mobile App",
+      "createdAt": "",
+      "url": "https://play.google.com/store/apps/details?id=com.SaharaDesk.SaharaDesk&hl=en_US",
+      "description": "Asset management system for tracking and managing assets in an organization.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        },
+        {
+          "name": "Dart",
+          "iconifyClass": "logos-dart"
+        }
+      ]
+    },
+    {
+      "id": "Suply Chain Financing website",
+      "name": "Suply Chain Financing website",
+      "createdAt": "",
+      "url": "https://fmdq.ebiashara.com/",
+      "description": "A platform that allows suppliers to request for financing from financial institutions.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "ReactJs",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "Arronax website",
+      "name": "Arronax website",
+      "createdAt": "",
+      "url": "https://arronax.co.ke/arronax-media/",
+      "description": "A platform that allows users to subscribe to different media packages.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "neuro-symbolic-sudoku-solver",
+      "createdAt": "",
+      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
+      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "Suply Chain Financing Mobile App",
+      "name": "Suply Chain Financing Mobile App",
+      "createdAt": "",
+      "url": "",
+      "description": "A platform that allows suppliers to request for financing from financial institutions.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        },
+        {
+          "name": "Dart",
+          "iconifyClass": "logos-dart"
+        }
+      ]
+    }
+  ]
+}
